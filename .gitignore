@@ -1,0 +1,11 @@
+staticresources/
+.idea/
+IlluminatedCloud/
+.DS_Store
+npm-debug.log
+test/benchmarks/
+.project/
+.settings/
+.vscode/
+node_modules/
+/node_modules/

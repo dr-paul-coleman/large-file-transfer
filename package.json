@@ -1,0 +1,32 @@
+{
+  "name": "salesforce-large-file-transfer-example",
+  "version": "1.0.0",
+  "description": "Salesforce <=> s3 file sync example for large file transfers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr-paul-coleman/large-file-transfer"
+  },
+  "keywords": [
+    "salesforce",
+    "s3"
+  ],
+  "author": "Paul Coleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dr-paul-coleman/large-file-transfer/issues"
+  },
+  "homepage": "https://github.com/dr-paul-coleman/large-file-transfer#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1046.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "follow-redirects": "^1.14.6",
+    "jsforce": "^1.9.2",
+    "path": "^0.12.7",
+    "restify": "^8.6.0"
+  }
+}

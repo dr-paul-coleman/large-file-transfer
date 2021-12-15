@@ -1,0 +1,10 @@
+{
+    "name": "Salesforce <=> S3 File Sync",
+    "description": "An example of a large file transfer service between Salesforce ContentVersion and S3 bucket.",
+    "repository": "https://github.com/dr-paul-coleman/large-file-transfer",
+    "logo": "",
+    "keywords": ["node", "s3", "heroku", "salesforce"],
+    "image": "heroku/nodejs",
+    "env" :{
+    }
+  }
